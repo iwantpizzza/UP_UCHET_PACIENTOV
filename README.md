@@ -10,7 +10,7 @@
 
 <a><strong>Последовательность для запуска проекта:</strong></p>
 <ol>
- <li>Установить архив</li>
+ <li>Установить архив uchet_pacientov.rar</li>
  <li>Распаковать</li>
  <li>Открыть папку с проектом</li>
  <li>Запустить файл bolnica.sln </li>
@@ -19,4 +19,4 @@
 <p><strong>Тестирование</strong></p>
 <a><strong>Вы можете прочитать тест-кейсы в файле «Техническая документация»</strong></p>
 
-<a><strong>Unit-тесты на C# находятся в папке "UnitTest"</strong></p>
+<a><strong>Unit-тесты на C# находятся в архиве unitetests.rar</strong></p>
